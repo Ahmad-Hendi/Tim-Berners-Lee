@@ -1,0 +1,53 @@
+body {
+    color: grey;
+}
+
+/* start section one  */
+
+img{
+    display: block;
+    margin: auto;
+    padding: 2px;
+    border:; 8px solid ;
+    border-radius: 50%;
+    background: grey;
+    width: 120px;
+
+
+}
+
+.home-section .container h1{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: red;
+    font-weight: 900px;
+
+
+}
+
+.home-section .container h3{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.home-section .container p{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.btn{
+    font-family: 'Open Sans', sans-serif;
+    width:150px;
+    height:35px;
+    background-color: red;
+    color: #ffffff;
+    border-radius: 2px;
+    transition: background-color 2s;
+    display: block;
+    margin:auto;
+
+
+}
+
+ /* end of section one  */
